@@ -55,11 +55,9 @@
                 <span
                   class="text-xs text-muted-foreground px-2 py-1 bg-slate-200 dark:bg-slate-700 rounded-full">EP.01</span>
               </div>
-
-              <!-- Невидимый аудио-элемент -->
+              
               <audio id="audio-element" preload="metadata" src="./lifetimework.mp3"></audio>
 
-              <!-- Кастомный интерфейс -->
               <div class="flex items-center gap-3 mb-2">
                 <button id="play-btn"
                   class="flex items-center justify-center w-10 h-10 rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-colors">
@@ -95,12 +93,10 @@
       const playBtn = document.getElementById('play-btn');
       const progressBar = document.getElementById('progress-bar');
       const timeDisplay = document.getElementById('time-display');
-
-      // Иконки для кнопки воспроизведения/паузы
+      
       const playIcon = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>';
       const pauseIcon = '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="4" width="4" height="16"></rect><rect x="14" y="4" width="4" height="16"></rect></svg>';
 
-      // Обработчик кнопки воспроизведения/паузы
       playBtn.addEventListener('click', () => {
         if (audio.paused) {
           audio.play();
@@ -110,34 +106,29 @@
           playBtn.innerHTML = playIcon;
         }
       });
-
-      // Форматирование времени в мм:сс
+      
       function formatTime(seconds) {
         const mins = Math.floor(seconds / 60);
         const secs = Math.floor(seconds % 60);
         return `${mins}:${secs < 10 ? '0' + secs : secs}`;
       }
-
-      // Обновление прогресс-бара и отображения времени
+      
       audio.addEventListener('timeupdate', () => {
         const progress = (audio.currentTime / audio.duration) * 100;
         progressBar.style.width = `${progress}%`;
         timeDisplay.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration || 0)}`;
       });
-
-      // Перемотка при клике на прогресс-бар
+      
       progressBar.parentElement.addEventListener('click', (e) => {
         const rect = progressBar.parentElement.getBoundingClientRect();
         const pos = (e.clientX - rect.left) / rect.width;
         audio.currentTime = pos * audio.duration;
       });
-
-      // Обработка окончания воспроизведения
+      
       audio.addEventListener('ended', () => {
         playBtn.innerHTML = playIcon;
       });
-
-      // Инициализация длительности после загрузки метаданных
+      
       audio.addEventListener('loadedmetadata', () => {
         timeDisplay.textContent = `0:00 / ${formatTime(audio.duration)}`;
       });
