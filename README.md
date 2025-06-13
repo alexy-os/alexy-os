@@ -3,7 +3,7 @@
 ## Current Projects
 
 **[Buildy/UI App Starter](https://github.com/buildy-ui/app-starter)** - React starter with smart Tailwind CSS class switching  
-📡 [Latest commits RSS](https://github.com/buildy-ui/app-starter/commits.atom)
+📡 [Latest releases](https://github.com/buildy-ui/app-starter/releases)
 
 **[AI-driven UI Components](https://github.com/buildy-ui/ui)** - Automated component generation system
 
