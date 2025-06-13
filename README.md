@@ -1,8 +1,20 @@
-🏙️ **Urban Technology Innovator**
-Building the future of smart cities through comprehensive [application ecosystems](https://ecocity.alexy-os.com/) that bridge government, business, and citizens. My mission is to revolutionize urban development by creating intelligent routing systems and connectivity solutions that make essential services instantly accessible through any mobility option.
+🚀 **Frontend Developer & UI Systems Architect**
 
-🚀 From [AI-driven UI](https://github.com/buildy-ui/ui) component systems to secure microservice architectures, I'm developing a complete technology stack that automates foundational infrastructure—enabling exclusive focus on business logic and user experience.
+## Current Projects
 
-💡 Through projects spanning interface builders, [high-performance themes](https://github.com/alexy-os/wp-fasty), and scalable web platforms, I'm constructing the digital backbone for connected urban spaces where real-time issue reporting, transparent improvement tracking, and efficient mobility choices transform how we live and move in cities. 🌟
+**[Buildy/UI App Starter](https://github.com/buildy-ui/app-starter)** - React starter with smart Tailwind CSS class switching  
+📡 [Latest commits RSS](https://github.com/buildy-ui/app-starter/commits.atom)
 
-*Welcome to the future 🤗*
+**[AI-driven UI Components](https://github.com/buildy-ui/ui)** - Automated component generation system
+
+**[High-Performance WordPress Theme](https://github.com/alexy-os/wp-fasty)** - Optimized for speed and scalability
+
+## Tech Stack Focus
+
+Building complete frontend ecosystems: from component libraries to microservice integrations. Specializing in automated infrastructure that lets you focus purely on business logic and UX.
+
+## Mission
+
+Creating [smart city applications](https://ecocity.alexy-os.com/) that connect governments, businesses, and citizens through intuitive interfaces and efficient routing systems.
+
+*Building the future, one component at a time* 🎯
