@@ -3,7 +3,7 @@
 ## Current Projects
 
 **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory)** - EditorY transforms your Markdown files into structured JSON context for web applications  
-⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases)
+⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) 🔗 [Website](https://editory.vercel.app/)
 
 **[Buildy/UI App Starter](https://github.com/buildy-ui/app-starter)** - React starter with smart Tailwind CSS class switching  
 ⟳ [Latest releases](https://github.com/buildy-ui/app-starter/releases)
