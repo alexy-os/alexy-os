@@ -2,11 +2,11 @@
 
 ## Current Projects
 
-**[MDX Rich EditorY & user-friendly CMS](https://github.com/alexy-os/mdx-editory)** - EditorY transforms your Markdown files into structured JSON context for web applications  
-⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) 🔗 [EditorY Website](https://editory.vercel.app/)
+**[DnD Page Builder use shadcn themes](https://github.com/alexy-os/page-builder)** - Fully customizable page builder built with pure React and shadcn/ui colors  
+⟳ [Latest releases](https://github.com/alexy-os/page-builder/releases) ☍ [BuildY Website](https://builddy.vercel.app/) ⥂ [buildy-ui](https://github.com/buildy-ui/ui)
 
-**[Page Builder & AI-driven UI Components](https://github.com/buildy-ui/ui)** - Automated UI components generation system  
-⟳ [Latest releases](https://github.com/alexy-os/page-builder/releases) 🔗 [BuildY Website](https://builddy.vercel.app/)
+**[MDX Rich EditorY & user-friendly CMS](https://github.com/alexy-os/mdx-editory)** - EditorY transforms your Markdown files into structured JSON context for web applications  
+⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) ☍ [EditorY Website](https://editory.vercel.app/)
 
 **[Buildy/UI App Starters](https://github.com/buildy-ui/app-starter)** - React starter with smart Tailwind CSS class switching  
 ⟳ [Latest releases](https://github.com/buildy-ui/app-starter/releases)
