@@ -2,13 +2,14 @@
 
 ## Current Projects
 
-**[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory)** - EditorY transforms your Markdown files into structured JSON context for web applications  
-⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) 🔗 [Website](https://editory.vercel.app/)
+**[MDX Rich EditorY & user-friendly CMS](https://github.com/alexy-os/mdx-editory)** - EditorY transforms your Markdown files into structured JSON context for web applications  
+⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) 🔗 [EditorY Website](https://editory.vercel.app/)
 
-**[Buildy/UI App Starter](https://github.com/buildy-ui/app-starter)** - React starter with smart Tailwind CSS class switching  
+**[Page Builder & AI-driven UI Components](https://github.com/buildy-ui/ui)** - Automated UI components generation system  
+⟳ [Latest releases](https://github.com/alexy-os/page-builder/releases) 🔗 [BuildY Website](https://builddy.vercel.app/)
+
+**[Buildy/UI App Starters](https://github.com/buildy-ui/app-starter)** - React starter with smart Tailwind CSS class switching  
 ⟳ [Latest releases](https://github.com/buildy-ui/app-starter/releases)
-
-**[AI-driven UI Components](https://github.com/buildy-ui/ui)** - Automated component generation system
 
 **[High-Performance WordPress Theme](https://github.com/alexy-os/wp-fasty)** - Optimized for speed and scalability
 
