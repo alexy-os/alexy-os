@@ -3,7 +3,8 @@
 ## Current Projects
 
 **[DnD Page Builder use shadcn themes](https://github.com/alexy-os/page-builder)** - Fully customizable page builder built with pure React and shadcn/ui colors  
-⟳ [Latest releases](https://github.com/alexy-os/page-builder/releases) ☍ [BuildY Website](https://builddy.vercel.app/) ⥂ [buildy-ui](https://github.com/buildy-ui/ui)
+🔥 [Hot development: release v.0.0.2](https://github.com/alexy-os/page-builder/commits/v.0.0.2)  
+⟳ [Latest releases](https://github.com/alexy-os/page-builder/releases) ☍ [BuildY Website](https://builddy.vercel.app/) ⥂ [buildy-ui](https://github.com/buildy-ui/ui) 
 
 **[MDX Rich EditorY & user-friendly CMS](https://github.com/alexy-os/mdx-editory)** - EditorY transforms your Markdown files into structured JSON context for web applications  
 ⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) ☍ [EditorY Website](https://editory.vercel.app/)
