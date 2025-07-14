@@ -1,6 +1,6 @@
 Ⓐ **Frontend Developer & UI Systems Architect**
 
-## Current Project 
+## Current Project: AI-Driven web development studio
 
 1. **[Buildy/UI Registry](https://github.com/buildy-ui/ui)** - React UI/UX registry components for DnD Page Builder  
 🔥 [Hot development:](https://github.com/buildy-ui/ui/commits/blocks/)
@@ -12,7 +12,7 @@
 3. **[MDX Rich EditorY & user-friendly CMS](https://github.com/alexy-os/mdx-editory)** - EditorY transforms your Markdown files into structured JSON context for web applications  
 ⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) ☍ [EditorY Website](https://editory.vercel.app/)
 
-**[High-Performance WordPress Theme](https://github.com/alexy-os/wp-fasty)** - Optimized for speed and scalability
+4. **[High-Performance WordPress Theme](https://github.com/alexy-os/wp-fasty)** - Optimized for speed and scalability
 
 ## Tech Stack Focus
 
