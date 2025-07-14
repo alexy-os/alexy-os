@@ -7,7 +7,7 @@
 ⟳ [Latest releases](https://github.com/alexy-os/page-builder/releases) ☍ [BuildY Website](https://builddy.vercel.app/) ⥂ [buildy-ui](https://github.com/buildy-ui/ui) 
 
 2. **[Buildy/UI Registry](https://github.com/buildy-ui/ui)** - React UI/UX registry components for DnD Page Builder  
-⟳ [Latest releases](https://github.com/buildy-ui/ui/commits/main)
+⟳ [Latest development:](https://github.com/buildy-ui/ui/commits/main)
 
 3. **[MDX Rich EditorY & user-friendly CMS](https://github.com/alexy-os/mdx-editory)** - EditorY transforms your Markdown files into structured JSON context for web applications  
 ⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) ☍ [EditorY Website](https://editory.vercel.app/)
