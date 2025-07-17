@@ -3,10 +3,10 @@
 ## Current Project: AI-Driven web development studio
 
 1. **[Buildy/UI](https://github.com/buildy-ui/ui) - react UI/UX components for DnD Page Builder based UI8Kit**  
-🔥 Hot development: [@ui8kit/blocks](https://www.npmjs.com/org/ui8kit) ⟳ [latest github](https://github.com/buildy-ui/ui/commits/main) ⥂ [latest npm](https://www.npmjs.com/org/ui8kit)   
+Current development: [@ui8kit/blocks](https://www.npmjs.com/org/ui8kit) ⟳ [latest github](https://github.com/buildy-ui/ui/commits/main) ⥂ [latest npm](https://www.npmjs.com/org/ui8kit)   
 
 2. **[DnD Page Builder](https://github.com/alexy-os/page-builder) - fully customizable page builder built with pure React and shadcn/ui theme colors**  
-🔥 Hot development: [release v.0.0.3](https://github.com/alexy-os/page-builder/commits/v.0.0.3-beta.1/) ⟳ [latest releases](https://github.com/alexy-os/page-builder/releases) ☍ [website](https://builddy.vercel.app/) ⥂  based UI8Kit from [buildy-ui](https://github.com/buildy-ui/ui) 
+Current development: [release v.0.0.3](https://github.com/alexy-os/page-builder/commits/v.0.0.3-beta.1/) ⟳ [latest releases](https://github.com/alexy-os/page-builder/releases) ☍ [website](https://builddy.vercel.app/) ⥂  based UI8Kit from [buildy-ui](https://github.com/buildy-ui/ui) 
 
 3. **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory) - transforms your Markdown files into structured JSON context for web applications**  
 ⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) ☍ [EditorY Website](https://editory.vercel.app/)
