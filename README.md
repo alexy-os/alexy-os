@@ -3,15 +3,17 @@
 ## Current Project: AI-Driven web development studio
 
 1. **[Buildy/UI](https://github.com/buildy-ui/ui) - react UI/UX components for DnD Page Builder based UI8Kit**  
-Current development: [@ui8kit/blocks](https://www.npmjs.com/org/ui8kit) ⟳ [latest github](https://github.com/buildy-ui/ui/commits/main) ⥂ [latest npm](https://www.npmjs.com/org/ui8kit)   
+⟳ Current development: [github](https://github.com/buildy-ui/ui/commits/main) ⥂ [npm](https://www.npmjs.com/org/ui8kit)   
 
 2. **[DnD Page Builder](https://github.com/alexy-os/page-builder) - fully customizable page builder built with pure React and shadcn/ui theme colors**  
-Current development: [release v.0.0.3](https://github.com/alexy-os/page-builder/commits/v.0.0.3-beta.1/) ⟳ [latest releases](https://github.com/alexy-os/page-builder/releases) ☍ [website](https://builddy.vercel.app/) ⥂  based UI8Kit from [buildy-ui](https://github.com/buildy-ui/ui) 
+⟳ Current development: [v.0.0.3](https://github.com/alexy-os/page-builder/commits/v.0.0.3-beta.1/) | [all releases](https://github.com/alexy-os/page-builder/releases)  
+☍ [Website](https://builddy.vercel.app/)
 
-3. **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory) - transforms your Markdown files into structured JSON context for web applications**  
-⟳ [Latest releases](https://github.com/alexy-os/mdx-editory/releases) ☍ [EditorY Website](https://editory.vercel.app/)
+4. **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory) - transforms your Markdown files into structured JSON context for web applications**  
+⟳ Current development: [releases](https://github.com/alexy-os/mdx-editory/releases)  
+☍ [Website](https://editory.vercel.app/)
 
-4. **[WP FastY](https://github.com/alexy-os/wp-fasty) - optimized for speed and scalability wordpress theme based UI8Kit from BuildY**
+5. **[WP FastY](https://github.com/alexy-os/wp-fasty) - optimized for speed and scalability wordpress theme based UI8Kit from BuildY**
 
 ## Tech Stack Focus
 
