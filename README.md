@@ -2,18 +2,18 @@
 
 ## Current Project: AI-Driven web development studio
 
-1. **[Buildy/UI](https://github.com/buildy-ui/ui) - react UI/UX components for DnD Page Builder based UI8Kit**  
-⟳ Current development: [github](https://github.com/buildy-ui/ui/commits/main) ⥂ [npm](https://www.npmjs.com/org/ui8kit)   
+1. **[DnD Page Builder](https://github.com/alexy-os/page-builder) - fully customizable page builder built with pure React and shadcn/ui theme colors**  
+⟳ Current development: [commits](https://github.com/alexy-os/page-builder/commits/main/) | [releases](https://github.com/alexy-os/page-builder/releases)  
+☍ Website [link](https://builddy.vercel.app/)
 
-2. **[DnD Page Builder](https://github.com/alexy-os/page-builder) - fully customizable page builder built with pure React and shadcn/ui theme colors**  
-⟳ Current development: [v.0.0.3](https://github.com/alexy-os/page-builder/commits/v.0.0.3-beta.1/) | [all releases](https://github.com/alexy-os/page-builder/releases)  
-☍ [Website](https://builddy.vercel.app/)
-
-4. **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory) - transforms your Markdown files into structured JSON context for web applications**  
+2. **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory) - transforms your Markdown files into structured JSON context for web applications**  
 ⟳ Current development: [releases](https://github.com/alexy-os/mdx-editory/releases)  
-☍ [Website](https://editory.vercel.app/)
+☍ Website [link](https://editory.vercel.app/)
 
-5. **[WP FastY](https://github.com/alexy-os/wp-fasty) - optimized for speed and scalability wordpress theme based UI8Kit from BuildY**
+3. **[WP FastY](https://github.com/alexy-os/wp-fasty) - optimized for speed and scalability wordpress theme based UI8Kit from BuildY**
+
+**[Buildy/UI](https://github.com/buildy-ui/ui) - react UI/UX components for DnD Page Builder based UI8Kit**  
+✓ Pre-release: [commits](https://github.com/buildy-ui/ui/commits/main) ⥂ [npmjs](https://www.npmjs.com/org/ui8kit)   
 
 ## Tech Stack Focus
 
