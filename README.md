@@ -4,7 +4,7 @@
 
 1. **[DnD Page Builder](https://github.com/alexy-os/page-builder) - fully customizable page builder built with pure React and shadcn/ui theme colors**  
 ⟳ Current development: [commits](https://github.com/alexy-os/page-builder/commits/main/) | [releases](https://github.com/alexy-os/page-builder/releases)  
-☍ Website [link](https://builddy.vercel.app/)
+☍ Website [link](https://builddy.vercel.app/) [appraisal](https://github.com/alexy-os/page-builder/blob/content/src/components/blocks/hero/workup.md)
 
 2. **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory) - transforms your Markdown files into structured JSON context for web applications**  
 ⟳ Current development: [releases](https://github.com/alexy-os/mdx-editory/releases)  
