@@ -9,18 +9,21 @@
 
 ## Current Project: AI-Driven web development studio
 
-1. **[Buildy/UI](https://github.com/buildy-ui/ui) - react UI/UX components for DnD Page Builder based UI8Kit**  
-⟳ Current development: [commits](https://github.com/buildy-ui/ui/commits/main) ⥂ [npmjs](https://www.npmjs.com/org/ui8kit)   
+1. **[Buildy/Semantic](https://github.com/buildy-ui/semantic-starter) - A fully ready MPA website on a clean UI8Kit without classes and styles on single props**  
+⟳ Current activity: [commits](https://github.com/buildy-ui/semantic-starter/activity) ⥂ [ui8kit](https://github.com/ui8kit)  
 
-2. **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory) - transforms your Markdown files into structured JSON context for web applications**  
+2. **[Buildy/UI](https://github.com/buildy-ui/ui) - react UI/UX components for DnD Page Builder based UI8Kit**  
+⟳ Next step: [commits](https://github.com/buildy-ui/ui/commits/main) ⥂ [npmjs](https://www.npmjs.com/org/ui8kit)   
+
+3. **[MDX Rich EditorY](https://github.com/alexy-os/mdx-editory) - transforms your Markdown files into structured JSON context for web applications**  
 ⟳ Next step: [smarty cab](https://github.com/buildy-ui/ui/commits/main) + [editory](https://github.com/alexy-os/mdx-editory/commits/main)  
 ☍ Website [link](https://editory.vercel.app/)
 
-3. **[DnD Page Builder](https://github.com/alexy-os/page-builder) - fully customizable page builder built with pure React and shadcn/ui theme colors**  
+4. **[DnD Page Builder](https://github.com/alexy-os/page-builder) - fully customizable page builder built with pure React and shadcn/ui theme colors**  
 ⟳ Next step: [commits](https://github.com/alexy-os/page-builder/commits/main/) | [releases](https://github.com/alexy-os/page-builder/releases)  
 ☍ Website [link](https://builddy.vercel.app/) [appraisal](https://github.com/alexy-os/page-builder/blob/content/src/components/blocks/hero/workup.md)
 
-4. **[WP FastY](https://github.com/alexy-os/wp-fasty) - optimized for speed and scalability wordpress theme based UI8Kit from BuildY**
+5. **[WP FastY](https://github.com/alexy-os/wp-fasty) - optimized for speed and scalability wordpress theme based UI8Kit from BuildY**
 
 ## Tech Stack Focus
 
