@@ -9,6 +9,8 @@
 
 ## Current Project: AI-Driven web development studio
 
+[Chat AI](https://github.com/alexy-os/chat-ai)
+
 1. **[Buildy/Semantic](https://github.com/buildy-ui/semantic-starter) - A fully ready MPA website on a clean UI8Kit without classes and styles on single props**  
 ⟳ Current activity: [commits](https://github.com/buildy-ui/semantic-starter/activity) ⥂ [ui8kit](https://github.com/ui8kit)  
 
