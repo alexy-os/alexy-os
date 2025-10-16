@@ -3,9 +3,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexy-os&theme=github_dark_dimmed&rank_icon=github&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexy-os&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
-</a>
 
 ## Current Project: AI-Driven web development studio
 
