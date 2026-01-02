@@ -1,9 +1,5 @@
 Ⓐ **Frontend Developer & UI Systems Architect**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexy-os&theme=github_dark_dimmed&rank_icon=github&show_icons=true" />
-</a>
-
 ## Current Project: AI-Driven web development studio
 
 1. **[Offline CMS](https://github.com/alexy-os/offline-cms) - Connect to GraphQL endpoints, work offline, and sync content when network connectivity returns**  
