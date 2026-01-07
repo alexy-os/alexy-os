@@ -1,5 +1,9 @@
 Ⓐ **Frontend Developer & UI Systems Architect**
 
+## UI8Kit
+
+- [UI Framework](https://github.com/ui8kit/framework) - work in progress
+
 ## Current Project: AI-Driven web development studio
 
 1. **[Offline CMS](https://github.com/alexy-os/offline-cms) - Connect to GraphQL endpoints, work offline, and sync content when network connectivity returns**  
