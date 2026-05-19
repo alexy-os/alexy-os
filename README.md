@@ -1,17 +1,8 @@
 Ⓐ **Frontend Developer & UI Systems Architect**
 
-## UI8Kit
+## FastyGo
 
-- [UI Framework](https://github.com/ui8kit/framework) - work in progress
-
-## Current Project: AI-Driven web development studio
-
-1. **[Offline CMS](https://github.com/alexy-os/offline-cms) - Connect to GraphQL endpoints, work offline, and sync content when network connectivity returns**  
-
-2. **[Buildy/UI](https://github.com/buildy-ui/ui) - react UI/UX components for DnD Page Builder based UI8Kit**  
-⟳ Next step: [commits](https://github.com/buildy-ui/ui/commits/main) ⥂ [npmjs](https://www.npmjs.com/org/ui8kit) 
-
-3. **[WP FastY](https://github.com/alexy-os/wp-fasty) - optimized for speed and scalability wordpress theme based UI8Kit from BuildY**
+- [UI Go Framework](https://github.com/fastygo) - work in progress
 
 ## Tech Stack Focus
 
