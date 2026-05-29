@@ -10,6 +10,12 @@ Building complete frontend ecosystems: from component libraries to microservice 
 
 ## Business Impact Platform
 
-The AI web studio powers regional business ecosystems where entrepreneurs build branded digital presence across competitive marketplace platforms. Local businesses leverage automated website generation, rating portal integration, and customer engagement tools to compete effectively in regional markets. This creates sustainable digital transformation for small-to-medium enterprises through self-service brand management, automated content creation, and multi-platform presence optimization.
+AI tools in the Y ecosystem help regional businesses grow by giving entrepreneurs an easy way to build a strong, branded presence on competitive e-commerce platforms. Local companies use automated website creation, review site integrations, and customer engagement features to compete more effectively in their markets. The result is sustainable digital transformation for small and medium-sized businesses – through simple self-service brand management, automated content creation, and optimized visibility across multiple platforms.
 
-*Building the future, one component at a time* 🎯
+## AlexY OS
+
+AlexY OS — Open Source Software developer building tools for startups in the Y (Yield) ecosystem.
+
+> No NDAs hiding messy code here. Just you, your vibe, and clean, world-class solutions open to everyone.
+
+**_Go IT! Towards the great goals_**
